@@ -5,3 +5,5 @@
 *dist/
 *.egg-info/
 .vscode
+config.ini
+logs/latest.log
